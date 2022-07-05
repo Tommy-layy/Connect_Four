@@ -1,4 +1,4 @@
-# Connect_Four_Project-1
+# Connect_Four_Project
 
 ## Date: 05 Jul 22
 
