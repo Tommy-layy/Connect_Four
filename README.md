@@ -36,4 +36,6 @@ Start first by deciding which color to play as. To win, either player must conne
 
 ### ***Credits***
 
+[GitHub](https://github.com/)
 
+[Tom Campbell](https://www.youtube.com/c/ThomasCampbell)
