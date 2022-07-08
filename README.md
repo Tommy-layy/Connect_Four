@@ -47,3 +47,5 @@ Start first by deciding which color to play as. To win, either player must conne
 [Start Background](https://www.deviantart.com/gifteddeviant/art/Black-Windows-8-Background-296751742)
 
 [Game Background](https://santafesymphony.org/?attachment_id=6429)
+
+***
