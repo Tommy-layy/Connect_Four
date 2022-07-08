@@ -28,10 +28,10 @@ h1{
 button{
   width: 20vh;
   height: 10vh;
-  background-color: rgb(17, 0, 255);
+  background-color: red;
   box-shadow: 15px 15px 80px 20px rgba(245, 245, 245, 0.332);
   border-radius: 10px solid black;
-  color: white;
+  color: blue;
   cursor: pointer;
   display: block;
   font-size: 20px;
