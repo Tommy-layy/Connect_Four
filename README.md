@@ -12,7 +12,7 @@
 
 Connect Four game made with HTML, CSS, and Javascript.
 
-![Connect4Game](Images/Connect4Game.jpeg)
+![Connect4Game](https://m.media-amazon.com/images/I/81ZNRHJ+cIL._AC_SL1500_.jpg)
 
 ***
 
