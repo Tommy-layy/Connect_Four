@@ -24,7 +24,7 @@ Connect Four game made with HTML, CSS, and Javascript.
 
 ### ***Getting Started***
 
-Start first by deciding which color to play as. To win, either player must connect ***FOUR*** of the same colored pieces in a row. Only 1 piece may be played at a time.
+Start first by deciding which color to play as. To win, either player must connect ***FOUR*** of the same colored pieces in a row. Only 1 chip may be played at a time.
 
 ***
 
