@@ -21,16 +21,12 @@ body{
 
 h1{
   font-size: 5vh;
-  /* margin: 2.5vh; */
-  /* margin: 5vh; */
   margin-top: 3vh;
   margin-bottom: 5vh;
   color: black;
 }
 
 #board{
-  /* background-color: rgba(73, 228, 73, 0.278); */
-  /* padding-top: 10vmin; */
   width: 75vmin;
   height: 65vmin;
   display: grid;
@@ -41,8 +37,6 @@ h1{
 }
 
 .cell{
-  /* border: 1px solid blueviolet;
-  background-color: aliceblue; */
   position: relative;
   display: flex;
 }
