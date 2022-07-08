@@ -1,4 +1,4 @@
-# Connect_Four_Project
+# Connect Four
 
 ## Date: 05 Jul 22
 
@@ -11,6 +11,8 @@
 ### ***Description***
 
 Connect Four game made with HTML, CSS, and Javascript.
+
+![Connect4Game](Images/Connect4Game.jpeg)
 
 ***
 
@@ -30,7 +32,7 @@ Start first by deciding which color to play as. To win, either player must conne
 
 ### ***Future Changes/Updates***
 
-*
+* Clean and polish to be more mobile friendly.
 
 ***
 
@@ -41,3 +43,7 @@ Start first by deciding which color to play as. To win, either player must conne
 [GitHub](https://github.com/)
 
 [Tom Campbell](https://www.youtube.com/c/ThomasCampbell)
+
+[Start Background](https://www.deviantart.com/gifteddeviant/art/Black-Windows-8-Background-296751742)
+
+[Game Background](https://santafesymphony.org/?attachment_id=6429)
