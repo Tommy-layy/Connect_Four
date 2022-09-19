@@ -34,7 +34,7 @@ Start first by deciding which color to play as. To win, either player must conne
 
 ### ***Future Changes/Updates***
 
-- [ ] Clean and polish with new gained knowledge to make page more aesthetic
+- [ ] Clean and polish with newly gained knowledge to make page more aesthetic
 - [ ] Make more mobile friendly
 
 ***
