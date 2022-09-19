@@ -1,16 +1,18 @@
 # Connect Four
 
-## Date: 05 Jul 22
+## Date: 05 Jul 22 - 08 Jul 22
 
-### By: Tommy Le
+### Created By: Tommy Le
 
+[LinkedIn](https://www.linkedin.com/in/tommyyle/)
 [Trello](https://trello.com/b/aDMRh2gd/project-1)
+[Surge Deployed Link](http://tlconnect4game.surge.sh/)
 
 ***
 
 ### ***Description***
 
-Connect Four game made with HTML, CSS, and Javascript.
+Simple Connect Four game made with HTML, CSS, and Javascript
 
 ![Connect4Game](https://m.media-amazon.com/images/I/81ZNRHJ+cIL._AC_SL1500_.jpg)
 
@@ -32,7 +34,8 @@ Start first by deciding which color to play as. To win, either player must conne
 
 ### ***Future Changes/Updates***
 
-* Clean and polish to be more mobile friendly.
+- [ ] Clean and polish with new gained knowledge to make page more aesthetic
+- [ ] Make more mobile friendly
 
 ***
 
