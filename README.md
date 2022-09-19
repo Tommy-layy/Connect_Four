@@ -6,7 +6,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/tommyyle/) | 
 [Trello](https://trello.com/b/aDMRh2gd/project-1) | 
-[Surge Deployed Link](http://tlconnect4game.surge.sh/) |
+[Surge Deployed Link](http://tlconnect4game.surge.sh/)
 
 ***
 
