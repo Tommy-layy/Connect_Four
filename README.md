@@ -4,8 +4,8 @@
 
 ### Created By: Tommy Le
 
-[LinkedIn](https://www.linkedin.com/in/tommyyle/) | 
-[Trello](https://trello.com/b/aDMRh2gd/project-1) | 
+[LinkedIn](https://www.linkedin.com/in/tommyyle/) |
+[Trello](https://trello.com/b/aDMRh2gd/project-1) |
 [Surge Deployed Link](http://tlconnect4game.surge.sh/)
 
 ***
